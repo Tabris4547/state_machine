@@ -1,0 +1,1 @@
+cmd_/home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/Module.symvers := sed 's/\.ko$$/\.o/' /home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/modules.order | scripts/mod/modpost -m -a  -o /home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/Module.symvers -e -i Module.symvers   -T -

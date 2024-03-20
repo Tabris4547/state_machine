@@ -1,0 +1,1 @@
+cmd_/home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/state_machine.mod := { echo  /home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/state_machine.o;  echo; } > /home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/state_machine.mod

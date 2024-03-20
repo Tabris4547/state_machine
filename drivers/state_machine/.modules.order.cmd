@@ -1,0 +1,1 @@
+cmd_/home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/modules.order := {   echo /home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/state_machine.ko; :; } | awk '!x[$$0]++' - > /home/li/buildroot/lab29_kernel_state_machine/toy/drivers/state_machine/modules.order
