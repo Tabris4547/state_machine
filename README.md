@@ -6,7 +6,8 @@ https://prgrms.notion.site/2-2840b52e3c4e40d197f34db3e350a668
 
 state machine flow chart
 
-<img width="697" alt="flow_chart" src="https://github.com/Tabris4547/state_machine/assets/99371497/d4a1e528-499f-49a7-964c-ed05e0101abd">
+
+<img width="722" alt="flow_chart" src="https://github.com/Tabris4547/state_machine/assets/99371497/b94fdd77-2e30-482d-8356-1c67b4538026">
 
 
 
